@@ -1,0 +1,93 @@
+
+#resume {
+	background-color: #e6e222;
+	text-align: center;
+	padding: 80px;
+	margin: 0;
+}
+#menu {
+	background-color: pink;
+
+	text-align: center;
+	overflow: hidden;
+
+}
+#menu a {
+	padding: 14px 20px;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;	
+
+}
+#menu a:hover{
+	background-color: #DDD;
+	color: pink;
+}
+#final {
+	padding: 100px 49px 200px 0px;
+	background-color: #93add9;
+	text-align: center;
+}
+.blue {
+	color: #2666d4;
+	font-weight: 700;
+}
+#onthi {
+	background-color: blue;
+}
+
+#diemchuan {
+	margin: 20px 0px;
+}
+#flex_container {
+	display: flex;
+	flex-wrap: wrap;
+}
+#left {
+	flex: 50%;
+}
+#right {
+	flex: 50%;
+}
+table {
+	border-collapse: collapse;
+}
+.title {
+	text-align: center;
+	font-weight: 700;
+	font-size: 150%;
+
+}
+.img {	
+	width: 90%;
+	height: 170px;
+
+}
+#anhdongvat_container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.anh_item {
+	flex: 33%;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width: 800px) {
+	#left { 
+		flex: 100%;
+	}
+	#right {
+		flex: 100%;
+	}
+	.anh_item {
+		flex: 50%;
+	}
+}
