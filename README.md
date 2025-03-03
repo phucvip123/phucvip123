@@ -7,10 +7,10 @@
 
 ### 🚀 **Về tôi**
 - 🎓 Sinh viên **Công nghệ Thông tin** tại Đại học Mở Hà Nội  
-- 🏆 Thành viên **CLB Giải thuật Lập trình**, tham gia luyện thi **Olympic Tin học Quốc gia**  
+- 🏆 Thành viên **CLB Giải thuật Lập trình FITHOU**, đạt giải ba cuộc thi **Olympic Tin học Quốc gia Chuyên tin**
 - 🔍 Quan tâm đến **AI, Backend Development & Machine Learning**  
 - 🌱 Hiện tại, tôi đang phát triển một ứng dụng **học lập trình C++ trên mobile**  
-- 📈 Thích **Kinh tế, Đầu tư tài chính** và ứng dụng AI vào **doanh nghiệp**  
+- 📈 Thích **Kinh tế, Đầu tư tài chính, Đọc sách** và ứng dụng AI vào **doanh nghiệp**  
 - 📫 **Liên hệ với tôi** tại:  
   [📧 Email](mailto:phucvipbn01@gmail.com) | [🌐 Website](phuc) | [💼 Facebook](https://www.facebook.com/nguyen.phuc.580315)
 
